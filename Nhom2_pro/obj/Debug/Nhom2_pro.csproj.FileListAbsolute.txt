@@ -1,0 +1,13 @@
+D:\C#\Nhom2_pro\Nhom2_pro\bin\Debug\Nhom2_pro.exe.config
+D:\C#\Nhom2_pro\Nhom2_pro\bin\Debug\Nhom2_pro.exe
+D:\C#\Nhom2_pro\Nhom2_pro\bin\Debug\Nhom2_pro.pdb
+D:\C#\Nhom2_pro\Nhom2_pro\obj\Debug\Nhom2_pro.csproj.AssemblyReference.cache
+D:\C#\Nhom2_pro\Nhom2_pro\obj\Debug\Nhom2_pro.Form1.resources
+D:\C#\Nhom2_pro\Nhom2_pro\obj\Debug\Nhom2_pro.Menu.resources
+D:\C#\Nhom2_pro\Nhom2_pro\obj\Debug\Nhom2_pro.Properties.Resources.resources
+D:\C#\Nhom2_pro\Nhom2_pro\obj\Debug\Nhom2_pro.csproj.GenerateResource.cache
+D:\C#\Nhom2_pro\Nhom2_pro\obj\Debug\Nhom2_pro.csproj.CoreCompileInputs.cache
+D:\C#\Nhom2_pro\Nhom2_pro\obj\Debug\Nhom2_pro.exe
+D:\C#\Nhom2_pro\Nhom2_pro\obj\Debug\Nhom2_pro.pdb
+D:\C#\Nhom2_pro\Nhom2_pro\obj\Debug\Nhom2_pro.TLH.resources
+D:\C#\Nhom2_pro\Nhom2_pro\obj\Debug\Nhom2_pro.GhiDanhSv.resources
