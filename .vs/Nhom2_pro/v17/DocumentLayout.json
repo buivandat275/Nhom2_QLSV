@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\C#\\Nhom2_pro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|d:\\c#\\nhom2_pro\\nhom2_pro\\ghidanhsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\ghidanhsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\qlmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qlmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|d:\\c#\\nhom2_pro\\nhom2_pro\\tlh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\tlh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,48 +35,20 @@
       "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\tlh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\ghidanhsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\ghidanhsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\tlh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\tlh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\qld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\qlmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qlmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\qldsvdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qldsvdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\ghidanhsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\ghidanhsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_pro\\nhom2_pro\\baocaod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -102,6 +98,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GhiDanhSv.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\GhiDanhSv.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\GhiDanhSv.cs",
+              "ToolTip": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\GhiDanhSv.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\GhiDanhSv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:35:49.38Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TLH.cs",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\TLH.cs",
               "RelativeDocumentMoniker": "Nhom2_pro\\TLH.cs",
@@ -114,36 +122,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\Form1.cs",
               "RelativeDocumentMoniker": "Nhom2_pro\\Form1.cs",
               "ToolTip": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\Form1.cs [Design]",
               "RelativeToolTip": "Nhom2_pro\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T15:52:19.085Z"
+              "WhenOpened": "2024-11-07T15:52:19.085Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "QLDSVDataSet.xsd",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\QLDSVDataSet.xsd",
               "RelativeDocumentMoniker": "Nhom2_pro\\QLDSVDataSet.xsd",
               "ToolTip": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\QLDSVDataSet.xsd",
               "RelativeToolTip": "Nhom2_pro\\QLDSVDataSet.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2024-11-07T16:01:50.608Z"
+              "WhenOpened": "2024-11-07T16:01:50.608Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "QLSV.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\QLSV.cs",
               "RelativeDocumentMoniker": "Nhom2_pro\\QLSV.cs",
               "ToolTip": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\QLSV.cs [Design]",
               "RelativeToolTip": "Nhom2_pro\\QLSV.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T16:01:46.435Z"
+              "WhenOpened": "2024-11-07T16:01:46.435Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -155,11 +166,12 @@
               "RelativeToolTip": "Nhom2_pro\\Form1.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAEwBcAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T15:56:55.966Z"
+              "WhenOpened": "2024-11-07T15:56:55.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "BaoCaoD.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\BaoCaoD.cs",
               "RelativeDocumentMoniker": "Nhom2_pro\\BaoCaoD.cs",
@@ -170,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "QLD.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\QLD.cs",
               "RelativeDocumentMoniker": "Nhom2_pro\\QLD.cs",
@@ -181,29 +193,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "QLMH.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\QLMH.cs",
               "RelativeDocumentMoniker": "Nhom2_pro\\QLMH.cs",
               "ToolTip": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\QLMH.cs [Design]",
               "RelativeToolTip": "Nhom2_pro\\QLMH.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T15:49:30.785Z"
+              "WhenOpened": "2024-11-07T15:49:30.785Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Menu.resx",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\Menu.resx",
               "RelativeDocumentMoniker": "Nhom2_pro\\Menu.resx",
               "ToolTip": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\Menu.resx",
               "RelativeToolTip": "Nhom2_pro\\Menu.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-11-07T15:37:22.574Z"
+              "WhenOpened": "2024-11-07T15:37:22.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Menu.Designer.cs",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\Menu.Designer.cs",
               "RelativeDocumentMoniker": "Nhom2_pro\\Menu.Designer.cs",
@@ -211,34 +225,24 @@
               "RelativeToolTip": "Nhom2_pro\\Menu.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T15:37:18.311Z"
+              "WhenOpened": "2024-11-07T15:37:18.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\Menu.cs",
               "RelativeDocumentMoniker": "Nhom2_pro\\Menu.cs",
               "ToolTip": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\Menu.cs [Design]",
               "RelativeToolTip": "Nhom2_pro\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T17:50:27.319Z"
+              "WhenOpened": "2024-11-06T17:50:27.319Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GhiDanhSv.cs",
-              "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\GhiDanhSv.cs",
-              "RelativeDocumentMoniker": "Nhom2_pro\\GhiDanhSv.cs",
-              "ToolTip": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\GhiDanhSv.cs",
-              "RelativeToolTip": "Nhom2_pro\\GhiDanhSv.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAArwEUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T17:45:28.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Nhom2_pro",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\Nhom2_pro.csproj",
               "RelativeDocumentMoniker": "Nhom2_pro\\Nhom2_pro.csproj",
@@ -249,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\Program.cs",
               "RelativeDocumentMoniker": "Nhom2_pro\\Program.cs",
@@ -257,11 +261,12 @@
               "RelativeToolTip": "Nhom2_pro\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T00:58:11.179Z"
+              "WhenOpened": "2024-11-07T00:58:11.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Menu.cs",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\Menu.cs",
               "RelativeDocumentMoniker": "Nhom2_pro\\Menu.cs",
@@ -269,22 +274,12 @@
               "RelativeToolTip": "Nhom2_pro\\Menu.cs",
               "ViewState": "AQIAAEUAAAAAAAAAAAAnwFYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T17:50:29.525Z"
+              "WhenOpened": "2024-11-06T17:50:29.525Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GhiDanhSv.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\GhiDanhSv.cs",
-              "RelativeDocumentMoniker": "Nhom2_pro\\GhiDanhSv.cs",
-              "ToolTip": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\GhiDanhSv.cs [Design]",
-              "RelativeToolTip": "Nhom2_pro\\GhiDanhSv.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T17:39:33.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "TLH.Designer.cs",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\TLH.Designer.cs",
               "RelativeDocumentMoniker": "Nhom2_pro\\TLH.Designer.cs",
@@ -292,20 +287,18 @@
               "RelativeToolTip": "Nhom2_pro\\TLH.Designer.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:20:09.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T16:20:09.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "TLH.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\TLH.cs",
               "RelativeDocumentMoniker": "Nhom2_pro\\TLH.cs",
               "ToolTip": "D:\\C#\\Nhom2_pro\\Nhom2_pro\\TLH.cs [Design]",
               "RelativeToolTip": "Nhom2_pro\\TLH.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:08:59.587Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-06T16:08:59.587Z"
             }
           ]
         }
