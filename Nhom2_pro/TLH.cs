@@ -58,7 +58,7 @@ namespace Nhom2_pro
         {
             ketnoi();
             SqlCommand command = new SqlCommand(
-                "SELECT LopHoc.MaLop, MonHoc.TenMon, LopHoc.TenLop, LopHoc.SoLuongSV, HocKy.TenHocKy " +
+                "SELECT LopHoc.MaLop, MonHoc.MaMonHoc, MonHoc.TenMon, LopHoc.TenLop, LopHoc.SoLuongSV, HocKy.MaHocKy, HocKy.TenHocKy " +
                 "FROM LopHoc " +
                 "JOIN MonHoc ON LopHoc.MaMonHoc = MonHoc.MaMonHoc " +
                 "JOIN HocKy ON LopHoc.MaHocKy = HocKy.MaHocKy " +
@@ -135,9 +135,9 @@ namespace Nhom2_pro
 
         private void btSua_Click(object sender, EventArgs e)
         {
-           /* if (string.IsNullOrEmpty(lbMa.Text))
+            if (string.IsNullOrEmpty(txtMaLH.Text))
             {
-                MessageBox.Show("Vui lòng chọn lớp học cần sửa.");
+                MessageBox.Show("Vui lòng chọn lớp học cần sửa");
                 return;
             }
             if (!ValidateInput()) return;
@@ -149,31 +149,36 @@ namespace Nhom2_pro
             }
             try
             {
-                int maLopHoc = int.Parse(lbMa.Text);
-                int soSinhVien = int.Parse(txt_SoSV.Text);
-                string tenLop = txt_TenLop.Text;
-                int maMonHoc = (int)cbMonHoc.SelectedValue;
+                ketnoi();
 
-                string sqlUpdate = "UPDATE LopHoc SET TenLop = @tenLop, MaMonHoc = @maMonHoc, MaHocKy = @maHocKy WHERE MaLop = @maLopHoc";
-                SqlCommand cmd = new SqlCommand(sqlUpdate, conn);
-                cmd.Parameters.AddWithValue("@tenLop", tenLop);
-                cmd.Parameters.AddWithValue("@maMonHoc", maMonHoc);
-                cmd.Parameters.AddWithValue("@maHocKy", txtMaHocKy.Text);
-                cmd.Parameters.AddWithValue("@maLopHoc", maLopHoc);
+                SqlCommand cmd = new SqlCommand(
+                    "UPDATE LopHoc SET MaMonHoc = @MaMonHoc, MaHocKy = @MaHocKy, TenLop = @TenLop, SoLuongSV = @SoLuongSV " +
+                    "WHERE MaLop = @MaLop AND DaXoa = 0", conn);
+
+                cmd.Parameters.AddWithValue("@MaLop", txtMaLH.Text);
+                cmd.Parameters.AddWithValue("@MaMonHoc", cbMonHoc.SelectedValue);
+                cmd.Parameters.AddWithValue("@MaHocKy", cbHocKy.SelectedValue);
+                cmd.Parameters.AddWithValue("@TenLop", txt_TenLop.Text);
+                cmd.Parameters.AddWithValue("@SoLuongSV", txt_SoSV.Text);
 
                 cmd.ExecuteNonQuery();
-                MessageBox.Show("Cập nhật lớp học thành công!");
+                MessageBox.Show("Sửa thông tin lớp học thành công!");
+
                 LoadDanhSachLop();
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Lỗi: " + ex.Message);
-            }*/
+            }
+            finally
+            {
+                conn.Close();
+            }
         }
 
         private void btXoa_Click(object sender, EventArgs e)
         {
-            /*if (string.IsNullOrEmpty(lbMa.Text))
+            if (string.IsNullOrEmpty(txtMaLH.Text))
             {
                 MessageBox.Show("Vui lòng chọn lớp học cần xóa.");
                 return;
@@ -186,20 +191,26 @@ namespace Nhom2_pro
 
             try
             {
-                int maLopHoc = int.Parse(lbMa.Text);
+                ketnoi();
 
-                string sqlDelete = "UPDATE LopHoc SET DaXoa = 1 WHERE MaLop = @maLopHoc";
-                SqlCommand cmd = new SqlCommand(sqlDelete, conn);
-                cmd.Parameters.AddWithValue("@maLopHoc", maLopHoc);
+                SqlCommand cmd = new SqlCommand(
+                    "UPDATE LopHoc SET DaXoa = 1 WHERE MaLop = @MaLop", conn);
 
+                cmd.Parameters.AddWithValue("@MaLop", txtMaLH.Text);
                 cmd.ExecuteNonQuery();
+
                 MessageBox.Show("Xóa lớp học thành công!");
+
                 LoadDanhSachLop();
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Lỗi: " + ex.Message);
-            }*/
+            }
+            finally
+            {
+                conn.Close();
+            }
         }
 
         private void dgvDanhSachLop_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -209,7 +220,6 @@ namespace Nhom2_pro
 
         private void dgvDanhSachLop_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            // Kiểm tra xem có hàng nào được chọn không
             if (e.RowIndex >= 0)
             {
                 DataGridViewRow row = dgvDanhSachLop.Rows[e.RowIndex];
@@ -219,11 +229,16 @@ namespace Nhom2_pro
                 txt_TenLop.Text = row.Cells["TenLop"].Value.ToString();
                 txt_SoSV.Text = row.Cells["SoLuongSV"].Value.ToString();
 
-                
-                cbMonHoc.SelectedValue = row.Cells["MaMonHoc"].Value;
+                // Kiểm tra và gán giá trị cho ComboBox
+                if (row.Cells["MaMonHoc"].Value != null)
+                {
+                    cbMonHoc.SelectedValue = row.Cells["MaMonHoc"].Value;
+                }
 
-                // Hiển thị Học kỳ trong ComboBox
-                cbHocKy.SelectedValue = row.Cells["MaHocKy"].Value;
+                if (row.Cells["MaHocKy"].Value != null)
+                {
+                    cbHocKy.SelectedValue = row.Cells["MaHocKy"].Value;
+                }
             }
         }
         private bool ValidateInput()
@@ -259,5 +274,9 @@ namespace Nhom2_pro
             return true;
         }
 
+        private void dgvDanhSachLop_CellContentDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            
+        }
     }
 }

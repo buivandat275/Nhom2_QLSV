@@ -29,6 +29,9 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtMaLH = new System.Windows.Forms.TextBox();
+            this.cbHocKy = new System.Windows.Forms.ComboBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.btThoay = new System.Windows.Forms.Button();
             this.btXoa = new System.Windows.Forms.Button();
@@ -45,9 +48,6 @@
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.dgvDanhSachLop = new System.Windows.Forms.DataGridView();
-            this.label3 = new System.Windows.Forms.Label();
-            this.cbHocKy = new System.Windows.Forms.ComboBox();
-            this.txtMaLH = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
@@ -79,6 +79,30 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "   ";
+            // 
+            // txtMaLH
+            // 
+            this.txtMaLH.Location = new System.Drawing.Point(672, 26);
+            this.txtMaLH.Name = "txtMaLH";
+            this.txtMaLH.Size = new System.Drawing.Size(201, 32);
+            this.txtMaLH.TabIndex = 52;
+            // 
+            // cbHocKy
+            // 
+            this.cbHocKy.FormattingEnabled = true;
+            this.cbHocKy.Location = new System.Drawing.Point(672, 81);
+            this.cbHocKy.Name = "cbHocKy";
+            this.cbHocKy.Size = new System.Drawing.Size(201, 34);
+            this.cbHocKy.TabIndex = 51;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(531, 81);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(89, 26);
+            this.label3.TabIndex = 49;
+            this.label3.Text = "Học Kỳ";
             // 
             // label1
             // 
@@ -195,7 +219,7 @@
             this.tableLayoutPanel3.ColumnCount = 3;
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 37.74453F));
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 62.25547F));
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 364F));
+            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 365F));
             this.tableLayoutPanel3.Controls.Add(this.lbl_Tieude, 1, 0);
             this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Top;
             this.tableLayoutPanel3.Location = new System.Drawing.Point(3, 3);
@@ -214,7 +238,7 @@
             this.lbl_Tieude.ForeColor = System.Drawing.Color.DarkRed;
             this.lbl_Tieude.Location = new System.Drawing.Point(249, 0);
             this.lbl_Tieude.Name = "lbl_Tieude";
-            this.lbl_Tieude.Size = new System.Drawing.Size(400, 38);
+            this.lbl_Tieude.Size = new System.Drawing.Size(399, 38);
             this.lbl_Tieude.TabIndex = 2;
             this.lbl_Tieude.Text = "Tạo Lớp Học";
             this.lbl_Tieude.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -262,30 +286,7 @@
             this.dgvDanhSachLop.Size = new System.Drawing.Size(1011, 238);
             this.dgvDanhSachLop.TabIndex = 1;
             this.dgvDanhSachLop.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDanhSachLop_CellClick);
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(531, 81);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(89, 26);
-            this.label3.TabIndex = 49;
-            this.label3.Text = "Học Kỳ";
-            // 
-            // cbHocKy
-            // 
-            this.cbHocKy.FormattingEnabled = true;
-            this.cbHocKy.Location = new System.Drawing.Point(672, 81);
-            this.cbHocKy.Name = "cbHocKy";
-            this.cbHocKy.Size = new System.Drawing.Size(201, 34);
-            this.cbHocKy.TabIndex = 51;
-            // 
-            // txtMaLH
-            // 
-            this.txtMaLH.Location = new System.Drawing.Point(672, 26);
-            this.txtMaLH.Name = "txtMaLH";
-            this.txtMaLH.Size = new System.Drawing.Size(201, 32);
-            this.txtMaLH.TabIndex = 52;
+            this.dgvDanhSachLop.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDanhSachLop_CellContentDoubleClick);
             // 
             // TLH
             // 
